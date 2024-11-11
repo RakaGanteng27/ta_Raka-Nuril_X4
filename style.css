@@ -2,12 +2,12 @@ body {
     background-color: #191970;
 }
 .card {
-    backgroun-color: pink;
+    color: pink;
     margin-top: 50px;
     border-radius: 15px;
 }
 .profile-img {
-    width: 160px;
+    width: 140px;
     height: 140px;
     object-fit: cover;
     border-radius: 50%;
