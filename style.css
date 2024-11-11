@@ -1,19 +1,21 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #fof8ff;
+    color: #333;
+    font-family: Arial, sans-serif;
 }
 .card {
     margin-top: 50px;
     border-radius: 15px;
 }
 .profile-img {
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 140px;
     object-fit: cover;
     border-radius: 50%;
     margin-bottom: 20px;
 }
 .btn-instagram {
-    background-color: #e1306c;
+    background-color: lightblue;
     color: white;
 }
 .btn-instagram:hover {
