@@ -1,7 +1,5 @@
 body {
-    background-color: linear-gradient(to right, #80080, #8A2BE2);
-    color: #333;
-    font-family: Arial, sans-serif;
+    background-color: linear-gradient(to right, purple, black);
 }
 .card {
     margin-top: 50px;
@@ -15,7 +13,7 @@ body {
     margin-bottom: 20px;
 }
 .btn-instagram {
-    background-color: lightblue;
+    background-color: brown;
     color: white;
 }
 .btn-instagram:hover {
