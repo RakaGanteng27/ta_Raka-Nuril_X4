@@ -1,5 +1,5 @@
 body {
-    background-color: purple;
+    background-color:liniear-gradient(to right, purple, pink);
 }
 .card {
     margin-top: 50px;
@@ -13,7 +13,7 @@ body {
     margin-bottom: 20px;
 }
 .btn-instagram {
-    background-color: brown;
+    background-color: black;
     color: white;
 }
 .btn-instagram:hover {
