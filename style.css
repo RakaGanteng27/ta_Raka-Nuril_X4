@@ -2,7 +2,7 @@ body {
     background-color: #191970;
 }
 .card {
-    color: pink;
+    card-color: pink;
     margin-top: 50px;
     border-radius: 15px;
 }
