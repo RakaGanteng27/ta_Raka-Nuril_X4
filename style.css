@@ -2,6 +2,7 @@ body {
     background-color: #191970;
 }
 .card {
+    backgroun-color: pink;
     margin-top: 50px;
     border-radius: 15px;
 }
