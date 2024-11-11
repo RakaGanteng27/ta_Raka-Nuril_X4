@@ -1,5 +1,5 @@
 body {
-    background-color:liniear-gradient(to right, purple, pink);
+    background-color:liniear-gradient(to, purple, pink);
 }
 .card {
     margin-top: 50px;
